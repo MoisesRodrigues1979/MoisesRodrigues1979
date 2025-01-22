@@ -1,5 +1,18 @@
 # 💫 About Me:
-Em transição de carreira.<br> Já havia trabalhado com tecnologia da informação, mas até então não tinha me dado conta do quanto gosto dessa área. Decidido a voltar para a área, fiz um planejamento com a família, larguei a estrada e atualmente falta dois semestres para concluir a faculdade de Análise e Desenvolvimento de Sistemas.<br> Não fiquei só na faculdade. Em paralelo, aprimoro meus conhecimentos com cursos da área: Desenvolvimento WEB, JavaScript, Python, Gestão Ágil com Scrum entre outros. Estes cursos serviram (e servem) para aprofundar meus conhecimentos em HTML, CSS, Bootstrap, JavaScript, Python, Gestão de projetos, criação de games, páginas da Web responsivas e UX Desgin.<br> Falando de soft skils tenho muita gana de conhecimento, aprendo rápido, sou autodidata, focado em entregas e resultados, tenho preferência por trabalho em equipe (tive experiência em liderar equipe com resultados positivos).
+Sou desenvolvedor com quase dois anos de experiência prática, atuando com tecnologias como Java, Angular, Python e Spring Boot. Tenho paixão por resolver problemas e criar soluções digitais que agreguem valor aos projetos nos quais estou envolvido.
+Concluí o curso superior de Análise e Desenvolvimento de Sistemas em 2024 e, paralelamente, busquei capacitação por meio de cursos online em desenvolvimento web, metodologias ágeis, banco de dados, microsserviços e outras áreas essenciais. Minha abordagem autodidata e meu foco em entregas de qualidade me ajudaram a desenvolver habilidades técnicas sólidas.
+Atualmente, estou comprometido em ampliar meu conhecimento e contribuir para projetos desafiadores, aplicando minhas competências técnicas e colaborando de forma eficaz com equipes. Além disso, possuo experiência prática em liderança, o que me permite atuar estrategicamente para alcançar os melhores resultados em equipe.
+
+En
+I am a developer with almost two years of practical experience, working with technologies such as Java, Angular, Python, and Spring Boot. I am passionate about solving problems and creating digital solutions that add value to the projects I am involved in.
+I graduated with a degree in Systems Analysis and Development in 2024, and in parallel, I sought further training through online courses in web development, agile methodologies, databases, microservices, and other essential areas. My self-taught approach and focus on delivering quality results have helped me develop solid technical skills.
+Currently, I am committed to expanding my knowledge and contributing to challenging projects, applying my technical expertise and collaborating effectively with teams. Additionally, I have practical leadership experience, which allows me to act strategically to achieve the best results as part of a team.
+
+Es
+Soy desarrollador con casi dos años de experiencia práctica, trabajando con tecnologías como Java, Angular, Python y Spring Boot. Me apasiona resolver problemas y crear soluciones digitales que aporten valor a los proyectos en los que participo.
+Concluí la carrera de Análisis y Desarrollo de Sistemas en 2024 y, paralelamente, busqué capacitación a través de cursos en línea en desarrollo web, metodologías ágiles, bases de datos, microservicios y otras áreas esenciales. Mi enfoque autodidacta y mi dedicación a entregar resultados de calidad me han ayudado a desarrollar habilidades técnicas sólidas.
+Actualmente, estoy comprometido en ampliar mis conocimientos y contribuir a proyectos desafiantes, aplicando mis competencias técnicas y colaborando eficazmente con equipos. Además, tengo experiencia práctica en liderazgo, lo que me permite actuar estratégicamente para lograr los mejores resultados en equipo.
+
 
 
 ## 🌐 Socials:
